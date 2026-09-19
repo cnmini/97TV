@@ -10,7 +10,7 @@ AI生成的安卓电视端云影院APP，适配电视盒子，支持多线路、
 - 影片详情 + 多片源选集播放
 - 播放器支持跳过片头、片尾
 
-- 飞机：@tv97_cloud
+- 飞机群：@tv97_cloud
 
 ## 🖼️ 界面截图
 <img width="1599" height="897" alt="6" src="https://github.com/user-attachments/assets/cd9b5e6c-dbdf-4991-9e7c-890a60ae3985" />
